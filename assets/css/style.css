@@ -1,43 +1,46 @@
-body{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+body {
+	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
 
 .customNav {
-    background-color:#C28B71;
+	background-color: #c28b71;
 }
 .customNav li.nav-item {
-    color: white;
-    font-size: 20px;
-    text-decoration-style: solid;
-    font-family: Montserrat;
+	color: white;
+	font-size: 20px;
+	text-decoration-style: solid;
+	font-family: Montserrat;
 }
 
 .elitelogo {
-    height: 60px;
-    width: auto;
-} 
-
-h1 {
-    Font-family: Archivo Narrow;
-    Color: #C28B71;
+	height: 60px;
+	width: auto;
 }
 
-
+h1 {
+	font-family: Archivo Narrow;
+	color: #c28b71;
+}
 
 h2 {
-    Font-family: Montserrat;
-    Color: #707070;
+	font-family: Montserrat;
+	color: #707070;
 }
 
 h3 {
-    Font-family: Archivo Narrow;
-    Color: #707070;
+	font-family: Archivo Narrow;
+	color: #707070;
 }
 
-h4 { 
-    Color: #C28B71;
-
+h4 {
+	color: #c28b71;
 }
 
 h5 {
-    Font-family: Archivo Narrow;
-    Color: #707070;
+	font-family: Archivo Narrow;
+	color: #707070;
+}
+
+.carousel-inner img {
+	width: 100%;
 }
