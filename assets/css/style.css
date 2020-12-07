@@ -1,0 +1,43 @@
+body{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+
+.customNav {
+    background-color:#C28B71;
+}
+.customNav li.nav-item {
+    color: white;
+    font-size: 20px;
+    text-decoration-style: solid;
+    font-family: Montserrat;
+}
+
+.elitelogo {
+    height: 60px;
+    width: auto;
+} 
+
+h1 {
+    Font-family: Archivo Narrow;
+    Color: #C28B71;
+}
+
+
+
+h2 {
+    Font-family: Montserrat;
+    Color: #707070;
+}
+
+h3 {
+    Font-family: Archivo Narrow;
+    Color: #707070;
+}
+
+h4 { 
+    Color: #C28B71;
+
+}
+
+h5 {
+    Font-family: Archivo Narrow;
+    Color: #707070;
+}
